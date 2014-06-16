@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+source nodeinfo
+
+knife solo $1 -i $PATH_TO_IDENTITY_FILE -x $USER $HOST

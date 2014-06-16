@@ -1,0 +1,11 @@
+# Chef
+/cookbooks/
+
+# Linux
+*~
+
+# Sublime
+*sublime*
+
+# Non-public
+nodeinfo
