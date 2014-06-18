@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-source nodeinfo
+source settings-vagrant
 
-knife solo $1 -i $PATH_TO_IDENTITY_FILE -x $USER $HOST
+knife solo $1 -i $PATH_TO_IDENTITY_FILE -p $PORT -x $USER $HOST
