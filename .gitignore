@@ -10,3 +10,9 @@
 # Non-public
 nodeinfo
 settings
+deploy_ssh_key
+initial_setup
+nodes/127.0.0.1.json
+nodes/dev.gamecoach.loc.json
+settings-vagrant
+site-cookbooks/settings-vagrant
